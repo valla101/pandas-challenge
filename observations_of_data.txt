@@ -1,0 +1,5 @@
+OBSERVATIONS BASED ON THE DATA THAT WAS EXTRACTED
+
+# 1. Charter Schools perform better than District Schools. This is shown by the passing rates; where math passing rates were significantly higher in Math. Reading scores were higher in Reading as well but maringally.
+
+# 2. The size of the schools is a major factor when it comes to overall passing rates. It is noticed that the top 5 overall performing Schools had a significantly smaller size compared to the bottom 5 overall performing schools. Another way to reinforce the trend is by looking at the school size bin table where the "Large" School sizes have significantly lower overall averages compared to the "Small" School sizes, who's overall grades are in the 90% range.
